@@ -25,9 +25,9 @@ const contendI18nMap = {
   },
   footer: {
     // zh: "安全软件提供技术支持",
-    zh: "Phần mềm kiểm tra độ an toàn của Website 789BET",
-    vi: "Phần mềm kiểm tra độ an toàn của Website 789BET",
-    en: "Phần mềm kiểm tra độ an toàn của Website 789BET",
+    zh: "Phần mềm kiểm tra độ an toàn của Website 78WIN",
+    vi: "Phần mềm kiểm tra độ an toàn của Website 78WIN",
+    en: "Phần mềm kiểm tra độ an toàn của Website 78WIN",
   },
 };
 
